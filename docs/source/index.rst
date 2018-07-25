@@ -6,9 +6,13 @@
 Welcome to magic-django-markdown-editor's documentation!
 ========================================================
 
+markdown editor for django
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   Introduce
 
 
 

@@ -1,7 +1,7 @@
 magic-django-markdown-editor
 ============================
 
-为django量身定制的markdown编辑器
+A markdown editor for django.
 
 .. image:: https://readthedocs.org/projects/magic-django-markdown-editor/badge/?version=latest
    :target: https://magic-django-markdown-editor.readthedocs.io/zh/latest/
