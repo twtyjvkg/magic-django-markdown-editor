@@ -9,7 +9,7 @@ magic django markdown editor 是一个神奇的[Django](http://www.djangoproject
 
 * Projet Home: https://markdown.xuzhao.xin
 * Author: [xuzhao](https://www.xuzhao.xin)
-* Email: mailto:twtyjvkg@outlook.com
+* Email: twtyjvkg@outlook.com
 
 License
 ===
