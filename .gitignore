@@ -80,3 +80,5 @@ venv/
 build/
 dist/
 magic_django_markdown_editor.egg-info/
+
+*.bat

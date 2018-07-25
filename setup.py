@@ -15,7 +15,7 @@ with open('README.md', 'r', encoding='utf8') as fh:
     long_description = fh.read()
 
 setup(name='magic-django-markdown-editor',
-      version='1.0',
+      version='1.1',
       description='为django量身定制的markdown编辑器',
       long_description=long_description,
       long_description_content_type="text/markdown",

@@ -15,3 +15,18 @@ License
 ===
 
 Apache License 2.0
+
+Version
+===
+
+* v1
+
+  * v1.0
+  
+    将editormd集成到django中，写成组件的形式
+    
+  * v1.1
+  
+    修复全屏显示的bug
+
+
