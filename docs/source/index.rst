@@ -10,8 +10,6 @@ markdown editor for django
 --------------------------
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Introduce:
    introduce
 
 
