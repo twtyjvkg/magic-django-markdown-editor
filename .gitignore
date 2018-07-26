@@ -78,6 +78,7 @@ uploads/
 venv/
 
 build/
+_build/
 dist/
 magic_django_markdown_editor.egg-info/
 

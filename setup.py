@@ -11,7 +11,7 @@ from distutils.core import setup
 
 import setuptools
 
-with open('README.md', 'r', encoding='utf8') as fh:
+with open('README.rst', 'r', encoding='utf8') as fh:
     long_description = fh.read()
 
 setup(name='magic-django-markdown-editor',
