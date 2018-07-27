@@ -10,6 +10,6 @@ A markdown editor for django.
 
 .. _Introduce: https://magic-django-markdown-editor.readthedocs.io/zh/stable/introduce.html
 
-* `Installation`_
+* `Installation & Configuration`_
 
-.. _Installation: https://magic-django-markdown-editor.readthedocs.io/zh/stable/installation.html
+.. _Installation & Configuration: https://magic-django-markdown-editor.readthedocs.io/zh/stable/installation.html
