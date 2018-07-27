@@ -1,9 +1,13 @@
 language: python
 python:
-  - 2.7
-  - 3.4
-  - 3.5
-  - 3.6
+  - "3.4"
+  - "3.5"
+  - "3.6"
+services:
+  - mysql
+env:
+  global:
+    - DJANGO_SETTINGS_MODULE="xuzhao.markdown.travis_test.travis_settings"
 branches:
     only:
         - master
@@ -12,7 +16,7 @@ env:
   - DJANGO=1.11
   - DJANGO=2.0
 install:
-  - pip install -q Django==$DJANGO
+  - pip install Django
   - pip install python-coveralls
   - pip install coverage
 # command to run tests
