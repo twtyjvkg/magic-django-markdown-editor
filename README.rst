@@ -3,7 +3,7 @@ magic-django-markdown-editor
 
 A markdown editor for django.
 
-.. image:: https://travis-ci.org/twtyjvkg/magic-django-markdown-editor.svg?branch=master
+.. image:: https://travis-ci.org/twtyjvkg/magic-django-markdown-editor.svg?branch=dev
     :target: https://travis-ci.org/twtyjvkg/magic-django-markdown-editor
 
 .. image:: https://readthedocs.org/projects/magic-django-markdown-editor/badge/?version=latest
