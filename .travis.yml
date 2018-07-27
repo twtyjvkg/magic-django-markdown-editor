@@ -21,6 +21,6 @@ install:
   - pip install coverage
 # command to run tests
 script:
-    - coverage run manage.py test
+    - coverage run test
 after_success:
     - coveralls
