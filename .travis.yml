@@ -13,5 +13,3 @@ install:
 # command to run tests
 script:
     - DJANGO_SETTINGS_MODULE="xuzhao.markdown.travis_test.travis_settings" test xuzhao.markdown
-after_success:
-    - coveralls
